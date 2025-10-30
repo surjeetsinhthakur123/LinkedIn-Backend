@@ -20,7 +20,7 @@ const __dirname = path.resolve();
 // ✅ CORS setup 
 app.use(
   cors({
-    origin: "https://surjeet-frontend.vercel.app",
+    origin: "https://linked-in-frontend-bice.vercel.app",
     credentials: true,
   })
 );
